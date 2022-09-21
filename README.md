@@ -17,3 +17,7 @@ The main framework used in building the TinDog website is Bootstrap and its comp
 Click Here 👉 [Tindog Test Website](https://janinduchanuka.github.io/tindog/)
 
 # Screeshot
+![Capture1](https://user-images.githubusercontent.com/108678396/191489066-fdda8d1a-fccb-43ba-9425-c77a98f2effa.PNG)
+![Capture2](https://user-images.githubusercontent.com/108678396/191489077-58aa15e4-8edc-4eae-afcc-07d0466bbbe0.PNG)
+![Capture3](https://user-images.githubusercontent.com/108678396/191489084-dd83d43f-769b-4bb9-ad62-e53b5c8621e5.PNG)
+![Capture4](https://user-images.githubusercontent.com/108678396/191489091-ce9998db-fb49-4050-86ac-4b065c184718.PNG)
